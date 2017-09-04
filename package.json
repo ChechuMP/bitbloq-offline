@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bq/bitbloq-offline.git"
+    "url": "https://github.com/ChechuMP/bitbloq-offline.git"
   },
   "scripts": {
     "postinstall": "bower install",
